@@ -1,0 +1,1826 @@
+@media only screen and (min-width:2048px){
+
+
+}
+@media only screen and (min-width:1600px) and (max-width:2047px){
+
+
+
+}
+@media only screen and (min-width:1440px) and (max-width:1599px){
+}
+@media only screen and (min-width:1151px) and (max-width:1245px){
+.people_sec .wrapper {
+    padding: 0;
+	}
+#carousel1 .owl-prev {
+    left: 0;
+	}
+#carousel1 .owl-next {
+    right: 0;
+	}
+	
+	
+	
+	
+
+	}
+@media only screen and (min-width:960px) and (max-width:1149px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	}
+.our_videos {
+    width: 33%;
+	}
+.ft_newsletter .wrapper {
+    padding: 11px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    padding: 10px 0 0;
+	font-size: 20px;
+	}
+.courses_list li h4 {
+    font-size: 20px;
+	}
+.ft_welcome {
+    padding-right: 50px;
+    width: 31%;
+	}
+ftContact {
+    width: 23%;
+	}
+
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+    width: auto;
+	min-height: 520px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+}
+@media only screen and (min-width:769px) and (max-width:959px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	}
+.our_videos {
+    width: 33%;
+	}
+.ft_newsletter .wrapper {
+    padding: 11px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    font-size: 20px;
+    padding: 0px 0 11px;
+    float: none;
+    text-align: center;
+	}
+.newsletterBox {
+    float: none;
+    margin: 0 auto;
+    display: table;
+	}
+.ft_newsletter {
+    position: relative;
+    top: 0;
+	}		
+.ft_newsletter .wrapper {
+    height: 110px;
+	position:relative;
+	}
+.courses_list li h4 {
+    font-size: 17px;
+	}
+.ft_welcome {
+    padding-right: 50px;
+    width: 26%;
+	}
+ftContact {
+    width: 23%;
+	}
+.logo {
+    padding: 5px 0;
+    width: 94px;
+	}
+.camera_wrap img {
+    height: auto !important;
+    left: 50%;
+    margin: 0 0 0 -650px !important;
+    position: relative;
+    width: 1300px !important;
+	}
+.camera_wrap {
+    height: 330px !important;
+	}
+.cameraContent {
+    left: 20px !important;
+    top: 14% !important;
+	}
+#header {
+    margin: 25px 0 0 !important;
+	}
+.caption {
+    width: 300px;
+	}
+.btn {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 37px;
+    padding: 0px 16px;
+	}
+.caption p {
+    font-size: 16px;
+    line-height: 24px;
+	}
+.caption h1 {
+    font-size: 44px;
+	}
+.coursesIcon {
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+	}
+p {
+    font-size: 14px;
+    line-height: 20px;
+	}
+.content h3 {
+    font-size: 38px;
+    margin: 0 0 25px;
+    padding: 0 0 15px;
+	}
+.technical_details_list.clear > li {
+    background-size: 20px auto;
+    font-size: 15px;
+    padding: 0 0 6px 31px;
+	}
+.ft_introBox {
+    padding-right: 0px;
+    width: 26%;
+	}
+.ft_link_box h4 {
+    font-size: 21px;
+    padding: 0 0 20px;
+	}
+.ftContact {
+    width: 24%;
+	}
+.ftLinks {
+    width: 24%;
+	}
+.gallery_sec {
+    padding: 40px 0;
+	}
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+    width: auto;
+	min-height: 560px;
+	}
+.banner.innerPgBn img {
+    margin: 0 0 0 -750px;
+    width: 1500px;
+	}
+.innerPgBn .captionBox {
+    top: 76px;
+	}
+.innerPgBn .caption h1 {
+    font-size: 34px;
+	}
+.about_pg .gallery_sec {
+    padding: 70px 0 60px;
+	}
+
+
+
+
+/*********  Technical Details page css ***********/
+.tech_pg .gallery_sec {
+    padding: 50px 0 ;
+	}
+
+
+
+/*********  COntact page css ***********/
+.contForm {
+    float: none;
+    width: auto;
+	}
+.contactInfo {
+    float: none;
+    padding: 50px 0 0;
+    width: auto;
+	}
+
+
+
+
+
+
+
+
+	
+}
+@media only screen and (min-width:641px) and (max-width:768px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	}
+.our_videos {
+    display: table;
+    float: none;
+    margin: 34px auto 0;
+    width: 400px;
+	}
+.ft_newsletter .wrapper {
+    padding: 11px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    font-size: 20px;
+    padding: 0px 0 11px;
+    float: none;
+    text-align: center;
+	}
+.newsletterBox {
+    float: none;
+    margin: 0 auto;
+    display: table;
+	}
+.ft_newsletter {
+    position: relative;
+    top: 0;
+	}		
+.ft_newsletter .wrapper {
+    height: 110px;
+	position:relative;
+	}
+.courses_list li h4 {
+    font-size: 17px;
+	}
+.ft_welcome {
+    padding-bottom: 34px;
+    padding-right: 0;
+    text-align: center;
+    width: auto;
+	}
+ftContact {
+    width: 23%;
+	}
+.logo {
+    padding: 5px 0;
+    width: 94px;
+	}
+.camera_wrap img {
+    height: auto !important;
+    left: 50%;
+    margin: 0 0 0 -650px !important;
+    position: relative;
+    width: 1300px !important;
+	}
+.camera_wrap {
+    height: 330px !important;
+	}
+.cameraContent {
+    left: 20px !important;
+    top: 14% !important;
+	}
+#header {
+    margin: 25px 0 0 !important;
+	}
+.caption {
+    width: 300px;
+	}
+.btn {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 37px;
+    padding: 0px 16px;
+	}
+.caption p {
+    font-size: 16px;
+    line-height: 24px;
+	}
+.caption h1 {
+    font-size: 44px;
+	}
+.coursesIcon {
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+	}
+p {
+    font-size: 13px;
+    line-height: 20px;
+	}
+.content h3 {
+    font-size: 38px;
+    margin: 0 0 25px;
+    padding: 0 0 15px;
+	}
+.technical_details_list.clear > li {
+    background-size: 20px auto;
+    font-size: 15px;
+    padding: 0 0 6px 31px;
+	}
+.ft_introBox {
+    padding-right: 0px;
+    width: 26%;
+	}
+.ft_link_box h4 {
+    font-size: 21px;
+    padding: 0 0 20px;
+    text-align: center;
+	}
+.ftContact {
+    float: none !important;
+    width: auto;
+	}
+.ftLinks {
+    padding-bottom: 30px;
+    padding-right: 0;
+    width: auto;
+	}
+.gallery_sec {
+    padding: 40px 0;
+	}
+.pop_form {
+    width: 580px;
+	}
+.pop_form h2 {
+    font-size: 25px;
+	}
+.pop_form input[type="text"] {
+    line-height: 40px;
+	}
+.popLeft {
+    height: 420px;
+	}
+.social {
+    display: none;
+	}
+.technical_details {
+    float: none;
+    width: auto;
+	}
+.technical_details h3{
+	text-align:center;
+	}
+.technical_details h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.technical_details p{
+	text-align:center;
+	}
+.our_videos h3{
+	text-align:center;
+	}
+.our_videos h3:after{
+	left:50%;
+	}
+.tech_video_sec {
+    padding: 43px 0;
+	}
+.ft_link_box li {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    width: 100px;
+	}
+.ft_link_box {
+    padding: 22px 0;
+	}
+.ft_welcome a {
+    margin: 10px auto 0;
+	}
+.ftLinks li {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+	}
+.ftContact span {
+    display: table;
+    margin: 0 auto 8px;
+	}
+.courses_list li {
+    margin: 0 2% 6% 0;
+    width: 49%;
+	}
+.courses_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+#videoPopBox iframe {
+    height: 360px;
+    width: 560px;
+	}
+
+
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+	min-height: inherit;
+    width: auto;
+	}
+.banner.innerPgBn img {
+    margin: 0 0 0 -600px;
+    width: 1200px;
+	}
+.innerPgBn .captionBox {
+    top: 56px;
+	}
+.innerPgBn .caption h1 {
+    font-size: 26px;
+	}
+.innerPgIntro_sec {
+    padding: 26px 0 40px;
+	}
+.about_pg .gallery_sec {
+    padding: 50px 0;
+	}
+.aboutBox {
+    display: table;
+    float: none;
+    width: auto;
+	}
+
+
+
+/*********  Technical Details page css ***********/
+.tech_pg .gallery_sec {
+    padding: 50px 0 ;
+	}
+
+/*********  Gallery page css ***********/
+.gallery_sec .readMore {
+    margin: 28px auto 0;
+	}
+
+
+/*********  Contact page css ***********/
+.contForm {
+    float: none;
+    width: auto;
+	}
+.contactInfo {
+    float: none;
+    padding: 50px 0 0;
+    width: auto;
+	}
+.map {
+    padding: 0;
+	}
+
+
+
+
+
+
+	
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	}
+.our_videos {
+    display: table;
+    float: none;
+    margin: 34px auto 0;
+    width: 400px;
+	}
+.ft_newsletter .wrapper {
+    padding: 16px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    font-size: 20px;
+    padding: 6px 0 11px;
+    float: none;
+    text-align: center;
+	}
+.newsletterBox {
+    float: none;
+    margin: 0 auto;
+    display: table;
+	}
+.ft_newsletter {
+    position: relative;
+    top: 0;
+	}		
+.ft_newsletter .wrapper {
+    height: inherit;
+	position:relative;
+	}
+.courses_list li h4 {
+    font-size: 17px;
+	}
+.ft_welcome {
+    padding-bottom: 34px;
+    padding-right: 0;
+    text-align: center;
+    width: auto;
+	}
+ftContact {
+    width: 23%;
+	}
+.logo {
+    padding: 5px 0;
+    width: 94px;
+	}
+.camera_wrap img {
+    height: auto !important;
+    left: 50%;
+    margin: 0 0 0 -400px !important;
+    position: relative;
+    width: 800px !important;
+	}
+.camera_wrap {
+    height: 203px !important;
+	}
+.cameraContent {
+    left: 20px !important;
+    top: 14% !important;
+	}
+#header {
+    margin: 23px 0 0 !important;
+	}
+.caption {
+    width: 220px;
+	}
+.btn {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 37px;
+    padding: 0px 16px;
+	}
+.caption p {
+    font-size: 14px;
+    line-height: 21px;
+	display:none;
+	}
+.caption h1 {
+    font-size: 28px;
+    line-height: 32px;
+    padding-bottom: 0;
+	}
+.coursesIcon {
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+	}
+p {
+    font-size: 13px;
+    line-height: 20px;
+	}
+.content h3 {
+    font-size: 29px;
+    margin: 0 0 25px;
+    padding: 0 0 15px;
+	}
+.technical_details_list.clear > li {
+    background-size: 20px auto;
+    font-size: 15px;
+    padding: 0 0 6px 31px;
+	}
+.ft_introBox {
+    padding-right: 0px;
+    width: 26%;
+	}
+.ft_link_box h4 {
+    font-size: 21px;
+    padding: 0 0 20px;
+    text-align: center;
+	}
+.ftContact {
+    float: none !important;
+    width: auto;
+	}
+.ftLinks {
+    padding-bottom: 30px;
+    padding-right: 0;
+    width: auto;
+	}
+.gallery_sec {
+    padding: 40px 0;
+	}
+.pop_form {
+    width: 400px;
+	}
+.pop_form h2 {
+    font-size: 25px;
+	}
+.pop_form input[type="text"] {
+    line-height: 30px;
+    font-size: 13px;
+    background-size: 12px auto;
+    padding-left: 32px;
+	}
+.social {
+    display: none;
+	}
+.technical_details {
+    float: none;
+    width: auto;
+	}
+.technical_details h3{
+	text-align:center;
+	}
+.technical_details h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.technical_details p{
+	text-align:center;
+	}
+.our_videos h3{
+	text-align:center;
+	}
+.our_videos h3:after{
+	left:50%;
+	}
+.tech_video_sec {
+    padding: 30px 0 20px;
+	}
+.ft_link_box li {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    width: 100px;
+	}
+.ft_link_box {
+    padding: 22px 0;
+	}
+.ft_welcome a {
+    margin: 10px auto 0;
+	}
+.ftLinks li {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+	}
+.ftContact span {
+    display: table;
+    margin: 0 auto 8px;
+	}
+.courses_list li {
+    margin: 0 2% 6% 0;
+    width: 49%;
+	}
+.courses_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.popright {
+    float: none;
+    padding: 10px 0 0;
+    text-align: center;
+    width: auto;
+	}
+.popLeft {
+    background-size: 70px auto;
+    float: none;
+    height: 70px;
+    width: auto;
+	}
+#dropClose {
+    border-radius: 50%;
+    right: -32px;
+    top: -34px;
+    width: 24px;
+	}
+.top_right {
+    padding: 0;
+	}	
+.top_right span {
+    float: left;
+    font-size: 13px;
+    line-height: 17px;
+    width: 42%;
+	}
+.topCall {
+    margin-right: 7%;
+	}
+.intro_thumb {
+    margin: 0 0 0 -55px;
+    top: -54px;
+    width: 110px;
+	}
+.intro_thumb img {
+    height: auto;
+    width: 110px;
+	}
+.intro_dep {
+    padding: 84px 30px 30px;
+	}
+.intro_box {
+    padding: 95px 0 0;
+	}
+.intro_box li h4 {
+    font-size: 22px;
+	}
+.intro_sec p {
+    line-height: 25px;
+	}
+.gallery_list li {
+    margin: 0 2% 2% 0;
+    width: 49%;
+	}
+.gallery_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.newsletterBox input[type="text"] {
+    font-size: 14px;
+    line-height: 36px;
+    margin: 0 0 6px;
+    width: 100%;
+	display:table;
+	}
+.newsletterBox input[type="submit"] {
+    border: 3px solid #709465;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0 auto 0;
+    padding: 0 18px;
+	display: table;
+	}
+.gallery_sec .readMore {
+    margin: 18px auto 0;
+	}
+.our_courses_sec {
+    padding: 30px 0 0;
+	}
+.intro_sec {
+    padding: 30px 0 60px;
+	}
+#videoPopBox iframe {
+    height: 290px;
+    width: 400px;
+	}
+
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+    min-height: inherit;
+    width: auto;
+	}
+.banner.innerPgBn img {
+    margin: 0 0 0 -400px;
+    width: 800px;
+	}
+.innerPgBn .captionBox {
+    top: 39px;
+	}
+.innerPgBn .caption h1 {
+    font-size: 26px;
+	}
+.innerPgBn .caption {
+    width: auto;
+	}
+.aboutBox {
+    display: table;
+    float: none;
+    width: auto;
+	}
+.innerPgIntro_sec {
+    padding: 26px 0 40px;
+	}
+.about_pg .gallery_sec {
+    padding: 50px 0;
+	}
+
+
+/**********  Technical Details page csss   ********/
+.tech_pg .innerPgIntro_sec ul li {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.tech_pg .gallery_sec {
+    padding: 50px 0;
+	}
+
+
+
+/*********  Gallery page css ***********/
+.gallery_sec .readMore {
+    margin: 28px auto 0;
+	}
+
+
+
+
+
+/*********  Contact page css ***********/
+.contForm {
+    float: none;
+    width: auto;
+	}
+.contactInfo {
+    float: none;
+    padding: 50px 0 0;
+    width: auto;
+	}
+.map {
+    padding: 0;
+	}
+.contactInfo span {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 1px 0 32px 78px;
+	}
+.contactInfo span strong {
+    font-size: 14px;
+	}
+.map iframe {
+    height: 300px;
+	}
+
+
+
+
+}
+@media only screen and (min-width:321px) and (max-width:480px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	height:inherit;
+	}
+.our_videos {
+    display: block;
+    float: none;
+    margin: 34px auto 0;
+    width: auto;
+	}
+.ft_newsletter .wrapper {
+    padding: 11px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    float: none;
+    font-size: 18px;
+    padding: 5px 0 11px;
+    text-align: center;
+	}
+.newsletterBox {
+    float: none;
+    margin: 0 auto;
+    display: table;
+	}
+.ft_newsletter {
+    position: relative;
+    top: 0;
+	}		
+.ft_newsletter .wrapper {
+    height: inherit;
+	position:relative;
+	}
+.courses_list li h4 {
+    font-size: 20px;
+    font-weight: 400;
+	}
+.ft_welcome {
+    padding-bottom: 34px;
+    padding-right: 0;
+    text-align: center;
+    width: auto;
+	}
+ftContact {
+    width: 23%;
+	}
+.logo {
+    padding: 5px 0;
+    width: 68px;
+	}
+.camera_wrap img {
+    height: auto !important;
+    left: 50%;
+    margin: 0 0 0 -300px !important;
+    position: relative;
+    width: 600px !important;
+	}
+.camera_wrap {
+    height: 152px !important;
+	}
+.cameraContent {
+    left: 20px !important;
+    top: 14% !important;
+	}
+#header {
+    margin: 13px 0 0 !important;
+	}
+.mean-container .mean-nav {
+    margin-top: 27px !important;
+	}	
+.caption {
+    width: 220px;
+	}
+.btn {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 37px;
+    padding: 0px 16px;
+	}
+.caption p {
+    font-size: 14px;
+    line-height: 21px;
+	display:none;
+	}
+.caption h1 {
+    font-size: 28px;
+    line-height: 32px;
+    padding-bottom: 0;
+	}
+.coursesIcon {
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+	}
+p {
+    font-size: 13px;
+    line-height: 20px;
+	}
+.content h3 {
+    font-size: 23px;
+    margin: 0 0 22px;
+    padding: 0 0 9px;
+	}
+.content h3::after {
+    height: 1px;
+	}
+.technical_details_list.clear > li {
+    background-size: 20px auto;
+    font-size: 15px;
+    padding: 0 0 6px 31px;
+	}
+.ft_introBox {
+    padding-right: 0px;
+    width: 26%;
+	}
+.ft_link_box h4 {
+    font-size: 21px;
+    padding: 0 0 11px;
+    text-align: center;
+	}
+.ftContact {
+    float: none !important;
+    width: auto;
+	}
+.ftLinks {
+    padding-bottom: 30px;
+    padding-right: 0;
+    width: auto;
+	}
+.gallery_sec {
+    padding: 40px 0;
+	}
+.pop_form {
+    width: auto;
+	}
+#dropElem {
+    margin: 0 15px;
+	padding: 15px;
+	}
+.pop_form h2 {
+    font-size: 19px;
+    line-height: 24px;
+	}
+.pop_form input[type="text"] {
+    line-height: 30px;
+    font-size: 13px;
+    background-size: 12px auto;
+    padding-left: 32px;
+	}
+.social {
+    display: none;
+	}
+.technical_details {
+    float: none;
+    width: auto;
+	}
+.technical_details h3{
+	text-align:center;
+	}
+.technical_details h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.technical_details p{
+	text-align:center;
+	}
+.our_videos h3{
+	text-align:center;
+	}
+.our_videos h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.tech_video_sec {
+    padding: 30px 0 20px;
+	}
+.ft_link_box li {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    width: 80px;
+	}
+.ft_link_box {
+    padding: 22px 0;
+	}
+.ft_welcome a {
+    margin: 10px auto 0;
+	}
+.ftLinks li {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.ftContact span {
+    display: table;
+    margin: 0 auto 8px;
+	font-size: 13px;
+	}
+.courses_list li {
+    display: block;
+    float: none;
+    margin: 0 0 34px;
+    width: auto;
+	}
+.courses_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.popright {
+    float: none;
+    padding: 10px 0 0;
+    text-align: center;
+    width: auto;
+	}
+.popLeft {
+    background-size: 60px auto;
+    float: none;
+    height: 56px;
+    width: auto;
+	}
+#dropClose {
+    border-radius: 50%;
+    right: -32px;
+    top: -34px;
+    width: 24px;
+	}
+.top_right {
+    padding: 0;
+	}	
+.top_right span {
+   /* float: left;
+    font-size: 13px;
+    line-height: 17px;
+    width: 42%;*/
+	}
+.toploc {
+    display: none !important;
+	}	
+.topCall {
+    margin-right: 0;
+	display:table;
+	}
+.intro_thumb {
+    margin: 0 0 0 -55px;
+    top: -54px;
+    width: 110px;
+	}
+.intro_thumb img {
+    height: auto;
+    width: 110px;
+	}
+.intro_dep {
+    padding: 84px 30px 30px;
+	}
+.intro_box {
+    padding: 95px 0 0;
+	}
+.intro_box li h4 {
+    font-size: 20px;
+    font-weight: 300;
+	}
+.intro_sec p {
+    line-height: 25px;
+	}
+.gallery_list li {
+    float: none;
+    margin: 0 0 11px;
+    width: auto;
+	}
+.gallery_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.newsletterBox input[type="text"] {
+    font-size: 14px;
+    line-height: 36px;
+    margin: 0 0 6px;
+    width: 100%;
+	display:table;
+	}
+.newsletterBox input[type="submit"] {
+    border: 3px solid #709465;
+    border-radius: 4px;
+    display: table;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0 auto;
+    padding: 0 18px;
+	}
+.gallery_sec .readMore {
+    margin: 18px auto 0;
+	}
+.our_courses_sec {
+    padding: 30px 0 0;
+	}
+.intro_sec {
+    padding: 30px 0 60px;
+	}
+.pop_form input[type="submit"] {
+    font-size: 17px;
+    line-height: 32px;
+    margin: 14px auto 0;
+    padding: 0 24px;
+	}
+.intro_box li{
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.intro_box li:first-child{
+    margin-right: 0;
+	margin-bottom: 90px;
+	}
+.readMore {
+    margin: 32px auto 0;
+	}
+.copyright {
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0;
+	}
+.ftBar {
+    padding: 8px 0;
+	}
+.ftLinks li a {
+    font-size: 14px;
+	}
+.introBtn {
+    font-size: 13px;
+    padding: 7px 21px;
+	}
+.ft_logo {
+    padding: 0 0 6px;
+	}
+.ft_welcome p {
+    font-size: 14px;
+	}
+#videoPopBox iframe {
+    height: 230px;
+    width: 100%;
+	}
+
+
+
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+    min-height: inherit;
+    width: auto;
+	padding: 23px;
+	}
+.banner.innerPgBn img {
+    margin: 0 0 0 -300px;
+    width: 600px;
+	}
+.innerPgBn .captionBox {
+    top: 27px;
+	}
+.innerPgBn .caption h1 {
+    font-size: 18px;
+	}
+.innerPgBn .caption {
+    width: auto;
+	}
+.aboutBox {
+    display: table;
+    float: none;
+    width: auto;
+	}
+.aboutBoxCnt h4 {
+    font-size: 20px;
+    line-height: 45px;
+    margin: 0 0 5px;
+	}
+.aboutBoxCnt h4 img {
+    padding: 0 13px 0 0;
+    width: 34px;
+	}
+.aboutBoxCnt li {
+    background-position: 0 4px;
+    background-size: 20px auto;
+    font-size: 15px;
+    margin: 0 0 7px;
+    padding: 2px 0 6px 35px;
+	}
+.about_pg .gallery_sec {
+    background: #fff none repeat scroll 0 0;
+    padding: 50px 0;
+	}
+.innerPgIntro_sec {
+    padding: 26px 0 40px;
+	}
+
+
+
+
+
+/**********  Technical Details page csss   ********/
+.tech_pg .innerPgIntro_sec ul li {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.tech_pg .gallery_sec {
+    padding: 50px 0;
+	}
+.tech_pg .innerPgIntro_sec li {
+    background-position: 0 4px;
+    background-size: 20px auto;
+    font-size: 15px;
+    margin: 0 0 7px;
+    padding: 2px 0 6px 35px;
+	}
+
+
+
+
+/*********  Gallery page css ***********/
+.gallery_sec .readMore {
+    margin: 28px auto 0;
+	}
+
+
+
+/*********  Contact page css ***********/
+.contForm {
+    float: none;
+    width: auto;
+	}
+.contactInfo {
+    float: none;
+    padding: 50px 0 0;
+    width: auto;
+	}
+.map {
+    padding: 0;
+	}
+.contactInfo span {
+    background-size: 40px auto !important;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 1px 0 32px 53px;
+	}
+.contactInfo span strong {
+    font-size: 14px;
+	}
+.map iframe {
+    height: 300px;
+	}
+.contForm input[type="text"] {
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    font-size: 13px;
+    line-height: 37px;
+    padding: 0 13px;
+	}
+.contForm select{
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    font-size: 13px;
+    line-height: 37px;
+    height: 37px;
+    padding: 0 13px;
+	}
+.contForm textarea{
+    border: 1px solid #ececec;
+    border-radius: 3px;
+    font-size: 13px;
+	padding: 15px 13px;
+	}
+.contForm input[type="submit"] {
+    border: 2px solid #e1f1dc;
+    border-radius:5px;
+    font-size: 15px;
+    line-height: 33px;
+	}
+
+
+
+
+
+	
+}
+@media only screen and (max-width:320px){
+.wrapper{
+	width: auto;
+	padding:0 10px; 
+	}
+.topBar .wrapper {
+    padding: 5px 10px;
+	overflow: hidden;
+	height:inherit;
+	}
+.our_videos {
+    display: block;
+    float: none;
+    margin: 34px auto 0;
+    width: auto;
+	}
+.ft_newsletter .wrapper {
+    padding: 11px 10px;
+	overflow: hidden;
+	}
+.ft_newsletter h3 {
+    float: none;
+    font-size: 18px;
+    padding: 5px 0 11px;
+    text-align: center;
+	}
+.newsletterBox {
+    float: none;
+    margin: 0 auto;
+    display: table;
+	}
+.ft_newsletter {
+    position: relative;
+    top: 0;
+	}		
+.ft_newsletter .wrapper {
+    height: inherit;
+	position:relative;
+	}
+.courses_list li h4 {
+    font-size: 20px;
+    font-weight: 400;
+	}
+.ft_welcome {
+    padding-bottom: 34px;
+    padding-right: 0;
+    text-align: center;
+    width: auto;
+	}
+ftContact {
+    width: 23%;
+	}
+.logo {
+    padding: 5px 0;
+    width: 68px;
+	}
+.camera_wrap img {
+    height: auto !important;
+    left: 50%;
+    margin: 0 0 0 -300px !important;
+    position: relative;
+    width: 600px !important;
+	}
+.camera_wrap {
+    height: 152px !important;
+	}
+.cameraContent {
+    left: 20px !important;
+    top: 14% !important;
+	}
+#header {
+    margin: 13px 0 0 !important;
+	}
+.mean-container .mean-nav {
+    margin-top: 27px !important;
+	}	
+.caption {
+    width: 220px;
+	}
+.btn {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 37px;
+    padding: 0px 16px;
+	}
+.caption p {
+    font-size: 14px;
+    line-height: 21px;
+	display:none;
+	}
+.caption h1 {
+    font-size: 28px;
+    line-height: 32px;
+    padding-bottom: 0;
+	}
+.coursesIcon {
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+    height: 70px;
+    line-height: 70px;
+    width: 70px;
+	}
+p {
+    font-size: 13px;
+    line-height: 20px;
+	}
+.content h3 {
+    font-size: 20px;
+    line-height: 21px;
+    margin: 0 0 22px;
+    padding: 0 0 9px;
+	}
+.content h3::after {
+    height: 1px;
+	}
+.technical_details_list.clear > li {
+    background-size: 20px auto;
+    font-size: 15px;
+    padding: 0 0 6px 31px;
+	}
+.ft_introBox {
+    padding-right: 0px;
+    width: 26%;
+	}
+.ft_link_box h4 {
+    font-size: 21px;
+    padding: 0 0 11px;
+    text-align: center;
+	}
+.ftContact {
+    float: none !important;
+    width: auto;
+	}
+.ftLinks {
+    padding-bottom: 30px;
+    padding-right: 0;
+    width: auto;
+	}
+.gallery_sec {
+    padding: 40px 0;
+	}
+.pop_form {
+    width: auto;
+	}
+#dropElem {
+    margin: 0 15px;
+	padding: 15px;
+	}
+.pop_form h2 {
+    font-size: 19px;
+    line-height: 24px;
+	}
+.pop_form input[type="text"] {
+    line-height: 30px;
+    font-size: 13px;
+    background-size: 12px auto;
+    padding-left: 32px;
+	}
+.social {
+    display: none;
+	}
+.technical_details {
+    float: none;
+    width: auto;
+	}
+.technical_details h3{
+	text-align:center;
+	}
+.technical_details h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.technical_details p{
+	text-align:center;
+	}
+.our_videos h3{
+	text-align:center;
+	}
+.our_videos h3:after{
+	left: 50%;
+    margin-left: -50px;
+	}
+.tech_video_sec {
+    padding: 30px 0 20px;
+	}
+.ft_link_box li {
+    display: block;
+    float: none;
+    width: auto;
+	}
+.ft_logo img {
+    height: auto;
+    width: 80px;
+	}
+.ft_link_box {
+    padding: 22px 0;
+	}
+.ft_welcome a {
+    margin: 10px auto 0;
+	}
+.ftLinks li {
+    float: none;
+    text-align: center;
+    width: auto;
+	}
+.ftContact span {
+    display: table;
+    margin: 0 auto 8px;
+	font-size: 13px;
+	}
+.courses_list li {
+    display: block;
+    float: none;
+    margin: 0 0 34px;
+    width: auto;
+	}
+.courses_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.popright {
+    float: none;
+    padding: 10px 0 0;
+    text-align: center;
+    width: auto;
+	}
+.popLeft {
+    background-size: 60px auto;
+    float: none;
+    height: 56px;
+    width: auto;
+	}
+#dropClose {
+    border-radius: 50%;
+    right: -32px;
+    top: -34px;
+    width: 24px;
+	}
+.top_right {
+    padding: 0;
+	}	
+.top_right span {
+   /* float: left;
+    font-size: 13px;
+    line-height: 17px;
+    width: 42%;*/
+	}
+.toploc {
+    display: none !important;
+	}	
+.topCall {
+    margin-right: 0;
+	display:table;
+	}
+.intro_thumb {
+    margin: 0 0 0 -55px;
+    top: -54px;
+    width: 110px;
+	}
+.intro_thumb img {
+    height: auto;
+    width: 110px;
+	}
+.intro_dep {
+    padding: 84px 30px 30px;
+	}
+.intro_box {
+    padding: 95px 0 0;
+	}
+.intro_box li h4 {
+    font-size: 20px;
+    font-weight: 300;
+	}
+.intro_sec p {
+    line-height: 25px;
+	}
+.gallery_list li {
+    float: none;
+    margin: 0 0 11px;
+    width: auto;
+	}
+.gallery_list li:nth-child(2n) {
+    margin-right: 0;
+	}
+.newsletterBox input[type="text"] {
+    font-size: 14px;
+    line-height: 36px;
+    margin: 0 0 6px;
+    width: 100%;
+	display:table;
+	}
+.newsletterBox input[type="submit"] {
+    border: 3px solid #709465;
+    border-radius: 4px;
+    display: table;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0 auto;
+    padding: 0 18px;
+	}
+.gallery_sec .readMore {
+    margin: 18px auto 0;
+	}
+.our_courses_sec {
+    padding: 30px 0 0;
+	}
+.intro_sec {
+    padding: 30px 0 60px;
+	}
+.pop_form input[type="submit"] {
+    font-size: 17px;
+    line-height: 32px;
+    margin: 14px auto 0;
+    padding: 0 24px;
+	}
+.intro_box li{
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.intro_box li:first-child{
+    margin-right: 0;
+	margin-bottom: 90px;
+	}
+.readMore {
+    margin: 32px auto 0;
+	}
+.copyright {
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0;
+	}
+.ftBar {
+    padding: 8px 0;
+	}
+.ftLinks li a {
+    font-size: 14px;
+	}
+.introBtn {
+    font-size: 13px;
+    padding: 7px 21px;
+	}
+.ft_logo {
+    padding: 0 0 6px;
+	}
+.ft_welcome p {
+    font-size: 14px;
+	}
+.mean-nav {
+    width: 210px !important;
+	}
+#videoPopBox iframe {
+    height: 230px;
+    width: 100%;
+	}
+
+
+
+/*********  About page css ***********/
+.aboutBoxCnt {
+    min-height: inherit;
+    width: auto;
+	padding: 23px;
+	}
+.banner.innerPgBn img {
+    margin: 0 0 0 -300px;
+    width: 600px;
+	}
+.innerPgBn .captionBox {
+    top: 27px;
+	}
+.innerPgBn .caption h1 {
+    font-size: 18px;
+	}
+.innerPgBn .caption {
+    width: auto;
+	}
+.aboutBox {
+    display: table;
+    float: none;
+    width: auto;
+	}
+.aboutBoxCnt h4 {
+    font-size: 20px;
+    line-height: 45px;
+    margin: 0 0 5px;
+	}
+.aboutBoxCnt h4 img {
+    padding: 0 13px 0 0;
+    width: 34px;
+	}
+.aboutBoxCnt li {
+    background-position: 0 4px;
+    background-size: 20px auto;
+    font-size: 15px;
+    margin: 0 0 7px;
+    padding: 2px 0 6px 35px;
+	}
+.about_pg .gallery_sec {
+    background: #fff none repeat scroll 0 0;
+    padding: 50px 0;
+	}
+.innerPgIntro_sec {
+    padding: 26px 0 40px;
+	}
+
+
+
+
+/**********  Technical Details page csss   ********/
+.tech_pg .innerPgIntro_sec ul li {
+    float: none;
+    margin-right: 0;
+    width: auto;
+	}
+.tech_pg .gallery_sec {
+    padding: 50px 0;
+	}
+.tech_pg .innerPgIntro_sec li {
+    background-position: 0 4px;
+    background-size: 20px auto;
+    font-size: 15px;
+    margin: 0 0 7px;
+    padding: 2px 0 6px 35px;
+	}
+
+
+
+
+/*********  Gallery page css ***********/
+.gallery_sec .readMore {
+    margin: 28px auto 0;
+	}
+
+
+
+
+
+	
+	
+}

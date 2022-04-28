@@ -1,0 +1,39 @@
+@media only screen and (max-width: 959px)
+{
+.wrapper{ height:auto;	margin:0px auto;}
+/************************************ HEADER PANEL STARTS HERE ************************************/
+.main_menu img{ width:180px;}
+#header .navMenu{ display:none;}
+.mean-container{ display:block; float:right; width:100% !important;}
+
+
+
+.main_menu {
+    background: url("../images/nav_bg.png") no-repeat scroll top center #d2ab67
+    height: 42px;
+    padding: 0;
+}
+.mean-container .mean-nav{
+	margin-top:35px;
+	}
+.mean-container .mean-bar{ background:none !important; padding:0}	
+#header{
+padding:0;}
+.mean-container .mean-nav ul li li a{
+padding:8px 10%;
+}
+.mean-container .mean-nav ul li a.mean-expand{
+box-sizing: unset;
+    font-size: 29px !important;
+    padding: 0 !important;
+	}
+/************************************ HEADER PANEL ENDS HERE ************************************/
+
+
+
+}
+@media only screen and (max-width: 319px)
+{#header .navMenu{ display:none;}
+}
+
+
